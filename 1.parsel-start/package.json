@@ -1,0 +1,24 @@
+{
+  "name": "1.parsel-start",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.4.3",
+    "autoprefixer": "^9.5.1",
+    "postcss-modules": "^1.4.1",
+    "posthtml-img-autosize": "^0.1.4",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "reason-react": "^0.7.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "bs-platform": "^5.0.3",
+    "bsb-js": "^1.1.7",
+    "typescript": "^3.4.5"
+  }
+}

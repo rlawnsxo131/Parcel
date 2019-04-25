@@ -1,0 +1,36 @@
+# ninja log v5
+11	37	577909328	Whatever.cmi	e19ec39184e4b240
+1	60	577909328	src/index.mlast	42e03b13c7b254b5
+61	405	577909329	src/index.mlast.d	23c650be6656cd3e
+0	32	577909329	src/index-Whatever.cmj	d1bd067f3a1e3859
+0	32	577909329	C:/Parsel/1.parsel-start/src/index.bs.js	d1bd067f3a1e3859
+0	32	577909329	src/index-Whatever.cmi	d1bd067f3a1e3859
+# ninja log v5
+10	38	577909328	Whatever.cmi	e19ec39184e4b240
+2	468	577909329	src/index.mlast	42e03b13c7b254b5
+468	488	577909329	src/index.mlast.d	23c650be6656cd3e
+1	29	577909329	src/index-Whatever.cmj	d1bd067f3a1e3859
+1	29	577909329	C:/Parsel/1.parsel-start/src/index.bs.js	d1bd067f3a1e3859
+1	29	577909329	src/index-Whatever.cmi	d1bd067f3a1e3859
+17	39	577909891	Whatever.cmi	e19ec39184e4b240
+10	104	577909891	src/Greeting.mlast	166a801e014f9be3
+104	118	577909891	src/Greeting.mlast.d	18270d4242218eb9
+1	256	577909892	src/index.mlast	3bd1b23693afa829
+257	273	577909892	src/index.mlast.d	23c650be6656cd3e
+0	35	577909892	src/Greeting-Whatever.cmj	5012aa6460d82689
+0	35	577909892	C:/Parsel/1.parsel-start/src/Greeting.bs.js	5012aa6460d82689
+0	35	577909892	src/Greeting-Whatever.cmi	5012aa6460d82689
+36	73	577909892	src/index-Whatever.cmj	636923c5b1b98da1
+36	73	577909892	C:/Parsel/1.parsel-start/src/index.bs.js	636923c5b1b98da1
+36	73	577909892	src/index-Whatever.cmi	636923c5b1b98da1
+12	31	577909890	Whatever.cmi	e19ec39184e4b240
+1	80	577909892	src/index.mlast	3bd1b23693afa829
+7	84	577909892	src/Greeting.mlast	166a801e014f9be3
+80	94	577909892	src/index.mlast.d	23c650be6656cd3e
+84	100	577909892	src/Greeting.mlast.d	18270d4242218eb9
+0	26	577909892	src/Greeting-Whatever.cmj	5012aa6460d82689
+0	26	577909892	C:/Parsel/1.parsel-start/src/Greeting.bs.js	5012aa6460d82689
+0	26	577909892	src/Greeting-Whatever.cmi	5012aa6460d82689
+26	56	577909892	src/index-Whatever.cmj	636923c5b1b98da1
+26	56	577909892	C:/Parsel/1.parsel-start/src/index.bs.js	636923c5b1b98da1
+26	56	577909892	src/index-Whatever.cmi	636923c5b1b98da1
